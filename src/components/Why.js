@@ -22,7 +22,7 @@ const Why = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-20 text-justify">
           At Creative Junction, we stand out for several compelling reasons:<br/><br/>
           <span className="font-bold">Expertise in2D and 3D Art:</span> With a deep understanding of both 2D and 3D artistry, we bring a unique blend of creativity and technical precision to every project.<br/><br/>
           <span className="font-bold">Customized Video Invitations:</span> We specialize in crafting personalized video invites for various occasions, including weddings, birthdays, inaugurations, and more. Each invitation is tailored to reflect your style and theme, ensuring a memorable experience for your guests.<br/><br/>

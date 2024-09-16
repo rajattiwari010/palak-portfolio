@@ -22,7 +22,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-20 text-justify ">
           Welcome to Creative Junction, where art meets technology to bring your special moments to life! As a skilled 2D and 3D artist, I specialize in crafting captivating video invitations for a range of events, including weddings, birthdays, and inaugurations. With a keen eye for detail and a passion for creativity, I transform your ideas into stunning visual experiences that leave a lasting impression.
         </p>
 

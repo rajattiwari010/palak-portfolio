@@ -22,7 +22,7 @@ const Journey = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20 text-left">
+        <p className="text-xl mt-20 text-justify">
           Creative Junction was born from a heartfelt desire to extend the boundaries of physical art and explore the limitless possibilities of digital creativity. As a born art lover, my canvas was always filled with drawings, paintings, making handmade cards, envelopes, and paper products.
           However, everything changed when I welcomed my baby boy into the world.<br/> <br/>
           Driven by a mother's love and a passion for art, I embarked on a transformational journey into the realm of digital artistry. My goal was simple yet profound: to help my son see and experience the world through the enchanting lens of 2D and 3D art.<br/> <br/>

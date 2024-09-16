@@ -161,11 +161,10 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center justify-center h-full w-full">
           <div className="flex flex-col justify-center text-center md:text-left md:mr-4 mb-4 md:mb-0">
             <h2 className="text-3xl sm:text-4xl font-bold text-white">
-              A one stop solution for all designing related problems
+            Digital Dreams Delivered
             </h2>
-            <p className="text-white py-4 mx-auto max-w-xs sm:max-w-none">
-              We have years of experience building and designing. <br />
-              Currently, we work on designing applications using modern technologies.
+            <p className="text-white justify-left py-4 max-w-xs sm:Justify">
+            A one stop solution for all designing related problems
             </p>
 
             <div className="flex justify-center md:justify-start">
@@ -185,11 +184,11 @@ const Home = () => {
           </div>
 
           <div className="flex justify-center md:justify-end">
-            <img
-              src={HeroImage}
-              alt="my profile"
-              className="w-full h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl transform scale-110 hover:scale-100 transition-transform duration-300"
-            />
+          <img
+  src={HeroImage}
+  alt="my profile"
+  className="w-full h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-xl transform scale-100 hover:scale-105 transition-transform duration-300"
+/>
           </div>
         </div>
       </div>
