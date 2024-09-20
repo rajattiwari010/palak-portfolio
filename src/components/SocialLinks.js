@@ -17,12 +17,12 @@ const SocialLinks = () => {
     },
     {
       id: 3,
-      child: (
-        <>
-          Mail <HiOutlineMail size={30} />
-        </>
-      ),
-      href: "mailto:creativjunction@gmail.com",
+    child: (
+      <>
+        Mail <HiOutlineMail size={30} />
+      </>
+    ),
+    href: "mailto:creativjunction@gmail.com",
     },
     {
       id: 4,

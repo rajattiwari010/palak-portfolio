@@ -58,7 +58,11 @@ const Contact = () => {
           © {new Date().getFullYear()} Creative Junction. All rights reserved.{" "}
           <span role="img" aria-label="sparkles">✨</span>{" "}
           <span role="img" aria-label="palette">🎨</span>{" "}
-          <span role="img" aria-label="heart">❤️</span>
+          <span role="img" aria-label="heart">❤️<br /></span>
+          <span >9424221696 <br />
+          </span>{" "}
+
+          <span role="img" aria-label="sparkles">creativ_junction@gmail.com</span>{" "}
         </div>
       </footer>
     </div>

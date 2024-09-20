@@ -1,10 +1,10 @@
 import React from "react";
-import NssGecrUse from "../assets/portfolio/Poster.png";
-import CodePenUse from "../assets/portfolio/Wed.png";
-import HousePricePredictionUse from "../assets/portfolio/VE.png";
-import PortFolioUse from "../assets/portfolio/BS.png";
-import NewPortFolioUse from "../assets/portfolio/BC.png";
-import ForestFireUse from "../assets/portfolio/Other.png";
+import NssGecrUse from "../assets/portfolio/NssGecrUse.png";
+import CodePenUse from "../assets/portfolio/CodePenUse.png";
+import HousePricePredictionUse from "../assets/portfolio/HousePricePredictionUse.png";
+import PortFolioUse from "../assets/portfolio/PortFolioUse.png";
+import NewPortFolioUse from "../assets/portfolio/NewPortFolioUse.png";
+import ForestFireUse from "../assets/portfolio/ForestFireUse.png";
 import backgroundVideo from "../assets/portfolio/158742-817481583_small.mp4";
 
 const Project = () => {
@@ -12,38 +12,38 @@ const Project = () => {
     {
       id: 1,
       src: NssGecrUse,
-      demoLink: "https://1drv.ms/i/s!Aj1Qiux7g6f-ga8v6NxbzWSKlcVMCg?e=JSEsow",
-      codeLink: "https://1drv.ms/i/s!Aj1Qiux7g6f-ga8v6NxbzWSKlcVMCg?e=JSEsow",
+      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-gbBBoPZZQkWokt4tIA?e=a18kqL",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA5kyWFP04PjaPN3g?e=7H2us4",
     },
     {
       id: 2,
       src: CodePenUse,
-      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8hm9tfW-lDWNqyuQ?e=Cz5ozU",
-      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8xZRcibmGlUEmzaw?e=bSkAgL",
+      demoLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA4VncYfT8QwwcQqA?e=JUVvLm",
+      codeLink: "https://1drv.ms/b/s!Aj1Qiux7g6f-gbBGsVgcIYa1-GVcbA?e=7ZKnMo",
     },
     {
       id: 3,
       src: HousePricePredictionUse,
-      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8y-stqVapMzvWzvg?e=j3ACWI",
-      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8y-stqVapMzvWzvg?e=j3ACWI",
+      demoLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA8O6rvW6_NMyzMKQ?e=9FoTX4",
+      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8gjFzjhrGWK6UPpQ?e=uznGnQ",
     },
     {
       id: 4,
       src: PortFolioUse,
-      demoLink: "https://1drv.ms/i/s!Aj1Qiux7g6f-ga8wvVuA4kVDY6bd_A?e=RkzBG5",
-      codeLink: "https://1drv.ms/i/s!Aj1Qiux7g6f-ga8wvVuA4kVDY6bd_A?e=RkzBG5",
+      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-gbBIz9DKj8bqTzx33A?e=qc7YTr",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA652g1tNI4iCW3bQ?e=na7B22",
     },
     {
       id: 5,
       src: NewPortFolioUse,
-      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8zH_djL3fhDQ1nUQ?e=x7mFa2",
-      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8zH_djL3fhDQ1nUQ?e=x7mFa2",
+      demoLink: "https://1drv.ms/i/s!Aj1Qiux7g6f-ga8vxdxqBmcSwfqpUg?e=rlhI4G",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA7Tb-SIn_NuWYJcQ?e=w8PeGL",
     },
     {
       id: 6,
       src: ForestFireUse,
-      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-gaET2ex4g0Mu59at6w?e=Ny0POV",
-      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-gaET2ex4g0Mu59at6w?e=Ny0POV",
+      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-gaESXtUoiB4g9DaT0Q?e=INxCZ8",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA-kEnCqg0ETGJUog?e=RRgOAs",
     },
   ];
 

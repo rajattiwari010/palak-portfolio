@@ -12,28 +12,40 @@ const Team = () => {
     {
       id: 1,
       src: NssGecrUse,
-      designation: "Founder",
+      designation: (
+        <div style={{ textAlign: 'center' }}>
+      Palak <br /> Founder & Designer
+    </div>
+      ),
     },
     {
       id: 2,
-      src: CodePenUse,
-      designation: "Manager",
+      src: PortFolioUse,
+      designation: (
+        <div style={{ textAlign: 'center' }}>
+        Ritik <br /> Designer & Animator
+      </div> 
+      ),
     },
-    {
-      id: 3,
-      src: HousePricePredictionUse,
-      designation: "Designer",
-    },
+    // {
+    //   id: 3,
+    //   src: HousePricePredictionUse,
+    //   designation: "Designer",
+    // },
     {
       id: 4,
-      src: PortFolioUse,
-      designation: "2D Animator",
+      src: CodePenUse,
+      designation: (
+        <div style={{ textAlign: 'center' }}>
+      Rajat <br /> Manager
+    </div>
+      ),
     },
-    {
-      id: 5,
-      src: ForestFireUse,
-      designation: "Designer",
-    },
+    // {
+    //   id: 5,
+    //   src: ForestFireUse,
+    //   designation: "Designer",
+    // },
   ];
 
   return (

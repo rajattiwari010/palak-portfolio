@@ -139,7 +139,7 @@ const Home = () => {
   };
 
   return (
-    <div name="home" className="relative h-screen w-full">
+    <div name="Home" className="relative h-screen w-full">
       <video
         autoPlay
         loop
@@ -160,9 +160,10 @@ const Home = () => {
 
         <div className="flex flex-col md:flex-row items-center justify-center h-full w-full">
           <div className="flex flex-col justify-center text-center md:text-left md:mr-4 mb-4 md:mb-0">
-            <h2 className="text-3xl sm:text-4xl font-bold text-white">
-            Digital Dreams Delivered
-            </h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">
+  Digital Dreams Delivered&nbsp;
+</h2>
+
             <p className="text-white justify-left py-4 max-w-xs sm:Justify">
             A one stop solution for all designing related problems
             </p>

@@ -3,7 +3,7 @@ import VideoBackground from "../assets/portfolio/158742-817481583_small.mp4";
 
 const About = () => {
   return (
-    <div name="about" className="relative w-full min-h-screen text-white">
+    <div name="About" className="relative w-full min-h-screen text-white">
       <video
         autoPlay
         loop
