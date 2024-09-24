@@ -175,12 +175,7 @@ const Home = () => {
               >
                 Schedule Call
               </button>
-              <button
-                onClick={() => window.open('https://drive.google.com/', '_blank')}
-                className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded mx-2"
-              >
-                SEE MORE
-              </button>
+              
             </div>
           </div>
 
