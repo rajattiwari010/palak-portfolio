@@ -62,7 +62,7 @@ const Contact = () => {
           <span >9424221696 <br />
           </span>{" "}
 
-          <span role="img" aria-label="sparkles">creativ_junction@gmail.com</span>{" "}
+          <span role="img" aria-label="sparkles">creativjunction@gmail.com</span>{" "}
         </div>
       </footer>
     </div>
