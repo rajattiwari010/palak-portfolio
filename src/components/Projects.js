@@ -18,14 +18,14 @@ const Project = () => {
     {
       id: 2,
       src: CodePenUse,
-      demoLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA4VncYfT8QwwcQqA?e=JUVvLm",
-      codeLink: "https://1drv.ms/b/s!Aj1Qiux7g6f-gbBGsVgcIYa1-GVcbA?e=7ZKnMo",
+      demoLink: "https://1drv.ms/b/s!Aj1Qiux7g6f-gbBGsVgcIYa1-GVcbA?e=7ZKnMo",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA4VncYfT8QwwcQqA?e=JUVvLm",
     },
     {
       id: 3,
       src: HousePricePredictionUse,
-      demoLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA8O6rvW6_NMyzMKQ?e=9FoTX4",
-      codeLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8gjFzjhrGWK6UPpQ?e=uznGnQ",
+      demoLink: "https://1drv.ms/v/s!Aj1Qiux7g6f-ga8gjFzjhrGWK6UPpQ?e=uznGnQ",
+      codeLink: "https://1drv.ms/f/s!Aj1Qiux7g6f-gbA8O6rvW6_NMyzMKQ?e=9FoTX4",
     },
     {
       id: 4,
