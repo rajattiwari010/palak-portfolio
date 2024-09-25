@@ -24,7 +24,7 @@ const Why = () => {
 
         <p className="text-xl mt-20 text-justify">
           At Creative Junction, we stand out for several compelling reasons:<br/><br/>
-          <span className="font-bold">Expertise in2D and 3D Art:</span> With a deep understanding of both 2D and 3D artistry, we bring a unique blend of creativity and technical precision to every project.<br/><br/>
+          <span className="font-bold">Expertise in 2D and 3D Art:</span> With a deep understanding of both 2D and 3D artistry, we bring a unique blend of creativity and technical precision to every project.<br/><br/>
           <span className="font-bold">Customized Video Invitations:</span> We specialize in crafting personalized video invites for various occasions, including weddings, birthdays, inaugurations, and more. Each invitation is tailored to reflect your style and theme, ensuring a memorable experience for your guests.<br/><br/>
           <span className="font-bold">Attention to Detail:</span> We pay meticulous attention to every detail, from the visual aesthetics to the narrative flow, ensuring that your video invite is flawless and impactful.<br/><br/>
           <span className="font-bold">Innovative Approach:</span> Our team thrives on innovation, constantly exploring new techniques and technologies to push the boundaries of video editing and deliver cutting-edge results.<br/><br/>
